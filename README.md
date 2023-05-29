@@ -20,5 +20,4 @@ If you're looking for a dedicated Python developer to bring your web development
 - 📫 How to reach me:  yaseenkdr26@gmail.com 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanseeeh)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=Thanseeeh)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Thanseeeh)  
