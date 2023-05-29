@@ -10,7 +10,7 @@ If you're looking for a dedicated Python developer to bring your web development
 
 Skills: Django | React | Html | CSS | Javascript | SQL | DataStructure
 
-- 🔭 I’m currently working on https://razopy.online/ 
+- 🔭 I’m currently working on this project: https://razopy.online/ 
 - 📫 How to reach me: yaseenkdr26@gmail.com 
 
 
