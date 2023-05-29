@@ -11,7 +11,7 @@ If you're looking for a dedicated Python developer to bring your web development
 Skills: Django | React | Html | CSS | Javascript | SQL | DataStructure
 
 - 🔭 I’m currently working on this project: https://razopy.online/ 
-- 📫 How to reach me: yaseenkdr26@gmail.com 
+- 📫 How to reach me:  yaseenkdr26@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thanseeeh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thanseeh-yaseen-a97160250//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/thanseeeeeh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Thanseeeh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thanseeeh.github.io/ThanseehYaseen-Portfolio/)  
