@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Thanseeeh
 #### Python developer | django + react
-![Python developer | django + react](https://pbs.twimg.com/profile_banners/1625341186004377602/1685356357/1500x500)
+![Python developer | django + react](https://github.com/Thanseeeh/Thanseeeh/blob/main/Picsart_23-05-29_15-33-59-765.jpg)
 
 I am Thanseeh Yaseen, a passionate 20-year-old Python developer with a solid background in web design. My main focus is on using Django and React to create robust web applications that deliver smooth user experiences. Additionally, I have expertise in Java, JavaScript, and SQL, which allows me to work on a wide variety of projects.
 
