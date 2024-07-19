@@ -1,10 +1,9 @@
 ![Python developer | django + react](https://github.com/Thanseeeh/Thanseeeh/blob/main/full%20skills%20banner.png)
 
-## Hi there 👋, I'm Thanseeeh
 ### Python developer | django + react
 
 ### About:
-I am Thanseeh Yaseen, a passionate 20-year-old Python developer with a solid background in web design. My main focus is on using Django and React to create robust web applications that deliver smooth user experiences. Additionally, I have expertise in JavaScript, SQL, MongoDB, HTML, CSS, Bootstrap, TailwindCSS, DjangoORM, DataStructure and Algorithms, AWS deployment... which allows me to work on a wide variety of projects. I am a meticulous developer who always aims to produce high-quality, maintainable, and scalable code. To stay up-to-date with the latest industry trends, I am continuously learning and exploring new technologies.
+I am Thanseeh Yaseen, a passionate Python developer with a solid background in web design. My main focus is on using Django and React to create robust web applications that deliver smooth user experiences. Additionally, I have expertise in JavaScript, SQL, MongoDB, HTML, CSS, Bootstrap, TailwindCSS, DjangoORM, DataStructure and Algorithms, AWS deployment... which allows me to work on a wide variety of projects. I am a meticulous developer who always aims to produce high-quality, maintainable, and scalable code. To stay up-to-date with the latest industry trends, I am continuously learning and exploring new technologies.
 
 If you're looking for a dedicated Python developer to bring your web development project to life, feel free to get in touch with me.
 
@@ -17,7 +16,6 @@ If you're looking for a dedicated Python developer to bring your web development
 * ⚕️ Rest framework
 * 🤖 DataStructure
 
-- 🔭 I’m currently working on this project: https://razopy.online/ 
 - 📫 How to reach me:  yaseenkdr26@gmail.com 
 
 
