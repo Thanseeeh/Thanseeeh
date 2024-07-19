@@ -1,6 +1,6 @@
 ![Python developer | django + react](https://github.com/Thanseeeh/Thanseeeh/blob/main/full%20skills%20banner.png)
 
-### Hi, there Thanseeeh
+## Hi, there Thanseeeh
 ### Python developer | django + react
 
 ### About:
