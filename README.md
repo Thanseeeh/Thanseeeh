@@ -1,4 +1,4 @@
-![Python developer | django + react](https://github.com/Thanseeeh/Thanseeeh/blob/main/Picsart_23-05-29_15-33-59-765.jpg)
+![Python developer | django + react](https://github.com/Thanseeeh/Thanseeeh/blob/main/full%20skills%20banner.png)
 
 ## Hi there 👋, I'm Thanseeeh
 ### Python developer | django + react
