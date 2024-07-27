@@ -16,7 +16,7 @@ If you're looking for a dedicated Python developer to bring your web development
 * ⚕️ Rest framework
 * 🤖 DataStructure
 
-- 📫 How to reach me:  yaseenkdr27@gmail.com 
+- 📫 How to reach me:  yaseenkdr26@gmail.com 
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Thanseeeh)  
